@@ -1,4 +1,5 @@
-# 📊 Customer Churn Dashboard
+# 📊 Telco-Customer-Churn-Analytics
+
 
 An interactive Streamlit dashboard analyzing customer churn metrics across contract types, internet services, and payment methods.
 
