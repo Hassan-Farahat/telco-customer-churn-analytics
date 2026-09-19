@@ -11,4 +11,4 @@ An interactive Streamlit dashboard analyzing customer churn metrics across contr
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/customer-churn-dashboard.git](https://github.com/YOUR-USERNAME/customer-churn-dashboard.git)
+   git clone https://github.com/Hassan-Farahat/telco-customer-churn-analytics.git
